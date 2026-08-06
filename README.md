@@ -43,22 +43,22 @@
 
 | **Sem** | **Fecha** | **Tema** | **Observaciones** |
 | -- | --           | --                                    | -- |
-| 01 | Semana 16/03 | Presentación. Introducción            | |
-| 02 | Semana 23/03 | Introducción                          | |
-| 03 | Semana 30/03 | Encapsulamiento                       | |
-| 04 | Semana 06/04 | Encapsulamiento                       | |
-| 05 | Semana 13/04 | Herencia                              | |
-| 06 | Semana 20/04 | Herencia                              | |
-| 07 | Semana 27/04 | Polimorfismo                          | |
-| 08 | Semana 04/05 | Polimorfismo                          | |
-| 09 | Semana 11/05 | **Primer Parcial**                    | |
-| 10 | Semana 18/05 | Colecciones: Pilas, Colas y Listas    | |
-| 11 | Semana 25/05 | Colecciones: Diccionarios/Mapas       | |
-| 12 | Semana 01/06 | Excepciones y Archivos                | |
-| 13 | Semana 08/06 | Genericidad y Anotaciones             | |
-| 14 | Semana 15/06 | **Segundo Parcial**                   | |
-| 15 | Semana 22/06 | **Recuperatorios**                    | |
-| 16 | Semana 29/06 | Cierre de Cursada                     | |
+| 01 | Semana 10/08 | Presentación. Introducción            | |
+| 02 | Semana 17/08 | Introducción                          | |
+| 03 | Semana 24/08 | Encapsulamiento                       | |
+| 04 | Semana 31/08 | Encapsulamiento                       | |
+| 05 | Semana 07/09 | Herencia                              | |
+| 06 | Semana 14/09 | Herencia                              | |
+| 07 | Semana 21/09 | Polimorfismo                          | |
+| 08 | Semana 28/09 | Polimorfismo                          | |
+| 09 | Semana 05/10 | **Primer Parcial**                    | |
+| 10 | Semana 12/10 | Colecciones: Pilas, Colas y Listas    | |
+| 11 | Semana 19/10 | Colecciones: Diccionarios/Mapas       | |
+| 12 | Semana 26/10 | Excepciones y Archivos                | |
+| 13 | Semana 02/11 | Genericidad y Anotaciones             | |
+| 14 | Semana 09/11 | **Segundo Parcial**                   | |
+| 15 | Semana 16/11 | **Recuperatorios**                    | |
+| 16 | Semana 23/11 | Cierre de Cursada                     | |
 
 ## Criterios de evaluación UNO
 
